@@ -1,1 +1,1 @@
-# bot
+pip install pyTelegramBotAPI
